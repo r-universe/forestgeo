@@ -1,0 +1,22 @@
+[
+  {
+    "package": "fgeo",
+    "oncran": true
+  },
+  {
+    "package": "fgeo.analyze",
+    "oncran": true
+  },
+  {
+    "package": "fgeo.plot",
+    "oncran": true
+  },
+  {
+    "package": "fgeo.tool",
+    "oncran": true
+  },
+  {
+    "package": "fgeo.x",
+    "oncran": true
+  }
+]
