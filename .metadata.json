@@ -14,5 +14,9 @@
   {
     "package": "fgeo.tool",
     "oncran": true
+  },
+  {
+    "package": "fgeo.x",
+    "oncran": true
   }
 ]

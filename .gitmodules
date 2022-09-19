@@ -23,3 +23,8 @@
 	url = https://github.com/forestgeo/fgeo.tool
 	shallow = true
 	registered = true
+[submodule "fgeo.x"]
+	path = fgeo.x
+	url = https://github.com/forestgeo/fgeo.x
+	shallow = true
+	registered = true
