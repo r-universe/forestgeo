@@ -1,14 +1,14 @@
 [
   {
-    "package": "fgeo",
-    "oncran": true
-  },
-  {
     "package": "fgeo.analyze",
     "oncran": true
   },
   {
-    "package": "fgeo.plot",
+    "package": "fgeo",
+    "oncran": true
+  },
+  {
+    "package": "fgeo.x",
     "oncran": true
   },
   {
@@ -16,7 +16,7 @@
     "oncran": true
   },
   {
-    "package": "fgeo.x",
+    "package": "fgeo.plot",
     "oncran": true
   }
 ]
