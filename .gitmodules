@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fgeo"]
 	path = fgeo
 	url = https://github.com/forestgeo/fgeo
-	shallow = true
-	registered = true
 [submodule "fgeo.analyze"]
 	path = fgeo.analyze
 	url = https://github.com/forestgeo/fgeo.analyze
-	shallow = true
-	registered = true
 [submodule "fgeo.plot"]
 	path = fgeo.plot
 	url = https://github.com/forestgeo/fgeo.plot
-	shallow = true
-	registered = true
 [submodule "fgeo.tool"]
 	path = fgeo.tool
 	url = https://github.com/forestgeo/fgeo.tool
-	shallow = true
-	registered = true
 [submodule "fgeo.x"]
 	path = fgeo.x
 	url = https://github.com/forestgeo/fgeo.x
-	shallow = true
-	registered = true
